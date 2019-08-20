@@ -24,6 +24,7 @@ public class DupliacteCharacters {
 			if(com.containsKey(c)){
 				
 				com.put(c,com.get(c)+1);
+				System.out.println(c);
 			}else{
 				
 				com.put(c,1);
