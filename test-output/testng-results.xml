@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33" started-at="2019-08-22T10:45:51Z" finished-at="2019-08-22T10:45:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33" started-at="2019-08-22T10:45:51Z" finished-at="2019-08-22T10:45:51Z">
+      <class name="important.OccuranceOfEachCharacter">
+        <test-method status="PASS" signature="startTimer()[pri:0, instance:important.OccuranceOfEachCharacter@5594a1b5]" name="startTimer" is-config="true" duration-ms="4" started-at="2019-08-22T16:15:51Z" finished-at="2019-08-22T16:15:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTimer -->
+        <test-method status="PASS" signature="main()[pri:1, instance:important.OccuranceOfEachCharacter@5594a1b5]" name="main" duration-ms="9" started-at="2019-08-22T16:15:51Z" finished-at="2019-08-22T16:15:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="endTimer()[pri:0, instance:important.OccuranceOfEachCharacter@5594a1b5]" name="endTimer" is-config="true" duration-ms="0" started-at="2019-08-22T16:15:51Z" finished-at="2019-08-22T16:15:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTimer -->
+        <test-method status="PASS" signature="occurance()[pri:2, instance:important.OccuranceOfEachCharacter@5594a1b5]" name="occurance" duration-ms="2" started-at="2019-08-22T16:15:51Z" finished-at="2019-08-22T16:15:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- occurance -->
+        <test-method status="PASS" signature="startTimer()[pri:0, instance:important.OccuranceOfEachCharacter@5594a1b5]" name="startTimer" is-config="true" duration-ms="0" started-at="2019-08-22T16:15:51Z" finished-at="2019-08-22T16:15:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTimer -->
+        <test-method status="PASS" signature="endTimer()[pri:0, instance:important.OccuranceOfEachCharacter@5594a1b5]" name="endTimer" is-config="true" duration-ms="0" started-at="2019-08-22T16:15:51Z" finished-at="2019-08-22T16:15:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTimer -->
+        <test-method status="PASS" signature="occuranceOfString()[pri:3, instance:important.OccuranceOfEachCharacter@5594a1b5]" name="occuranceOfString" duration-ms="1" started-at="2019-08-22T16:15:51Z" finished-at="2019-08-22T16:15:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- occuranceOfString -->
+        <test-method status="PASS" signature="startTimer()[pri:0, instance:important.OccuranceOfEachCharacter@5594a1b5]" name="startTimer" is-config="true" duration-ms="0" started-at="2019-08-22T16:15:51Z" finished-at="2019-08-22T16:15:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTimer -->
+        <test-method status="PASS" signature="endTimer()[pri:0, instance:important.OccuranceOfEachCharacter@5594a1b5]" name="endTimer" is-config="true" duration-ms="1" started-at="2019-08-22T16:15:51Z" finished-at="2019-08-22T16:15:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTimer -->
+      </class> <!-- important.OccuranceOfEachCharacter -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

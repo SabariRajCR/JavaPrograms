@@ -13,7 +13,7 @@ public class Intersection {
 	int[] arr2 = {1,2,8,4,9,7};
 
 
-	@Test(priority=1)
+	//@Test(priority=1)
 	public void intersectionBetweenArrays() throws IOException {
 
 		List<Integer> arrayList = new ArrayList<Integer>();
@@ -35,13 +35,15 @@ public class Intersection {
 		List<Integer> firstList = new ArrayList<Integer>(); 
 		for (int i : arr1)
 			firstList.add(i);
-	
+		
 		List<Integer> secondList = new ArrayList<Integer>(); 
 		for (int i : arr2)
 			secondList.add(i);
 
 		firstList.retainAll(secondList);
 		System.out.println(firstList);
+		
+		
 	}
 
 }

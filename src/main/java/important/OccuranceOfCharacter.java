@@ -23,7 +23,7 @@ public class OccuranceOfCharacter extends BaseTestNg{
 		}
 		System.out.println(charCounter);
 	}
-	@Test(priority=2)
+	//@Test(priority=2)
 	public void occuranceOfString() {
 		char c = str.charAt(0);
 		for (int i = 0; i < str.length(); i++) {
@@ -33,7 +33,7 @@ public class OccuranceOfCharacter extends BaseTestNg{
 		}
 		System.out.println(c + " occurs " + count + " times in " + str);
 	}
-	@Test(priority=3)
+	//@Test(priority=3)
 	public void occurance() {
 		 String string=""; 
 		 int temp =0;
