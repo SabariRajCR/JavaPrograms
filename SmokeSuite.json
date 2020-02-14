@@ -1,0 +1,407 @@
+{
+"Common_Data": {
+		"TextboxDBAName": "TEST DO NOT DEPLOY",
+		"TextboxLegalName":"GTVT Rtl-Updates",
+		"CheckboxControlNum": "check",
+		"TextboxSalesRepName": "T659",
+		"DropdownPremierRelation": "No",
+		"DropdownFranchise": "No",
+		"New Merchant": "",
+		"TextboxDBAStreetName": "322 Castlewood Drive",
+		"TextboxDBAStreet2Name": "Suite 568",
+		"TextboxDBACityName": "South Metro Atlanta",
+		"TextboxDBAContactName": "jack king",
+		"TextboxDBAEmailName": "jKing@aol.com",
+		"TextboxDBAStateName": "GA",
+		"TextboxDBAZipName": "30328",
+		"TextboxDBAPhoneName": "770-888-9899",
+		"TextboxDBAContactName2": "jack king2",
+		"TextboxDBAEmailName2": "jKing2@aol.com",
+		"TextboxDBAContactName3": "jack king3",
+		"TextboxDBAEmailName3": "jKing3@aol.com",
+		"TextboxDBAFaxName": "770-888-9899",
+		"Basic site survey": "",
+		"DropdownOrderSite": "No",
+		"DropdownLocationCode": "Warehouse",
+		"TextboxInspectedByName": "Marvin",
+		"TextboxInspectedDateName": "04/09/2016",
+		"Tax worksheet": "",
+		"DropdownOwnerType": "Unknown or Unwilling to Provide",
+		"DropdownCertificationType": "Unknown",
+		"DropdownEthnicType": "Unknown or Unwilling to Provide",
+		"DropdownTypeOwnership": "Tax Exempt Organization",
+		"TextboxTaxIDName": "545-12-7896",
+		"Business Account": "",
+		"DropdownSICCategory": "Retail",
+		"DropdownSICCode": "8398 CPS/CHARITY AND RELIGIOUS ORGANIZATIONS",
+		"DropdownMarket": "Retail",
+		"TextboxProdServices": "Landscaping",
+		"TextboxCSPhoneName": "866-459-1234",
+		"TextboxWebAddressName": "https://www.testcase.com/",
+		"TextboxEmailAddressName": "jking@aol.com",
+		"TextboxCardPresentName": "98",
+		"TextboxCardKeyedName": "2",
+		"DropdownPrePayment": "No",
+		"DropdownExtendedServices": "No",
+		"DropdownCompliance": "No",
+		"DropdownSafetyCompliant": "No",
+		"DropdownflagAgg": "0",
+		"DropdownglobalProgram": "No",
+		"DropdownEMVContactless": "Yes",
+		"SupermarketEnrollment": "",
+		"TextboxNumberOfLanes": "8",
+		"TextboxLanesAcceptingChecks": "8",
+		"TextboxLanesAcceptingMCVisa": "8",
+		"TextboxPercentPerishables": "45",
+		"BusinessCurrency": "",
+		"DropdownDCC": "Yes",
+		"TextboxRevenueShare": "70",
+		"BusinessSales": "",
+		"DropdownAcceptDebit": "Yes",
+		"DropdownAcceptAmex": "Yes",
+		"DropdownNewAmex": "Yes",
+		"DropdownAXPAcquiring": "2",
+		"DropdownMCVInterchnage": "CPS / MT3",
+		"DropdownProcessMethod": "EDC",
+		"DropdownFrontEndVendor": "Global Payments",
+		"TextboxMCVAnnualSalesName": "150000",
+		"RadiobuttonAmexAmount": "select",
+		"TextboxAmexAnnualSalesName": "1400",
+		"TextboxAvgTicketName": "35",
+		"TextboxTotLocationName": "1",
+		"DropdownGoldenRetriever": "No",
+		"DropdownRewardsNetwork": "No",
+		"OwnerHistory": "",
+		"Owner1YearsCurrentName": "4",
+		"Owner1CheckboxDBA1": "uncheck",
+		"Owner1CheckboxLegal1": "uncheck",
+		"Owner1TextboxFname1Name": "Jimmy",
+		"Owner1TextboxLname1Name": "Carter",
+		"Owner1TextboxLname1Title1": "Manager",
+		"Owner1TextboxDOB1Name": "02/02/1994",
+		"Owner1TextboxSSN1Name": "422-20-2021",
+		"Owner1TextboxHomeAddr1Name": "3700 Largent Way",
+		"Owner1TextboxHomePhone1Name": "770-445-9898",
+		"Owner1TextboxCity1Name": "Hiram",
+		"Owner1TextboxState1Name": "GA",
+		"Owner1TextboxZip1Name": "30141",
+		"Owner1TextboxYearsthr1Name": "1",
+		"Owner1TextboxEmailAddr1Name": "JimCarter@aol.com",
+		"Owner1TextboxownershipPercent1Name": "",
+		"Owner1Radiobuttonown1": "select",
+		"Owner1CheckboxDBA2": "uncheck",
+		"Owner1CheckboxLegal2": "uncheck",
+		"Owner1TextboxFname2Name": "Imogene",
+		"Owner1TextboxLname2Name": "Tannery",
+		"Owner1TextboxLname2Title2": "Manager",
+		"Owner1TextboxDOB2Name": "11/11/1951",
+		"Owner1TextboxSSN2Name": "247-61-8286",
+		"Owner1TextboxHomeAddr2Name": "158 North Johnston St",
+		"Owner1TextboxHomePhone2Name": "518-459-6565",
+		"Owner1TextboxCity2Name": "Albany",
+		"Owner1TextboxState2Name": "NY",
+		"Owner1TextboxZip2Name": "12252",
+		"Owner1TextboxYearsthr2Name": "3",
+		"Owner1TextboxownershipPercent2Name": "20",
+		"Owner1TextboxEmailAddr2Name": "imotan@aol.com",
+		"Owner1Radiobuttonown2": "select",
+		"Owner1CheckboxMoreOwner": "uncheck",
+		"Owner2TextboxFirstName": "Tommy",
+		"Owner2TextboxLastName": "Pottlitzer",
+		"Owner2TextboxTitle": "Manager",
+		"Owner2TextboxDOBName": "04/04/1944",
+		"Owner2TextboxSSNName": "489-03-0911",
+		"Owner2TextboxhomeaddrName": "1650 Blair Bridge Rd",
+		"Owner2TextboxhomephoneName": "761-397-8700",
+		"Owner2TextboxcityName": "Bakersfield",
+		"Owner2TextboxstateName": "CA",
+		"Owner2TextboxzipName": "93263",
+		"Owner2TextboxyrsthrName": "4",
+		"Owner2Radiobuttonown": "select",
+		"Owner2TextboxownerpercentName": "15",
+		"Owner2TextboxemailidName": "tommyhill@att.com",
+		"Owner2TextboxbankName": "Bank of America",
+		"Owner2TextboxbankaccName": "770234156759369",
+		"Owner2TextboxbankcontactName": "Hugh Highland",
+		"Owner2TextboxbankphoneName": "761-425-5689",
+		"Owner2CheckboxMoreOwner": "check",
+		"Owner3TextboxFirstName": "Jim",
+		"Owner3TextboxLastName": "Regions",
+		"Owner3TextboxTitle": "Manager",
+		"Owner3TextboxDOBName": "5/5/1955",
+		"Owner3TextboxSSNName": "634-04-0911",
+		"Owner3TextboxhomeaddrName": "3790 Nova Rd",
+		"Owner3TextboxhomephoneName": "386-756-3490",
+		"Owner3TextboxcityName": "Port Orange",
+		"Owner3TextboxstateName": "FL",
+		"Owner3TextboxzipName": "32123",
+		"Owner3TextboxyrsthrName": "5",
+		"Owner3Radiobuttonown": "select",
+		"Owner3TextboxownerpercentName": "15",
+		"Owner3TextboxemailidName": "regionjim@gmail.com",
+		"Owner3TextboxbankName": "Bank of America",
+		"Owner3TextboxbankaccName": "7812568945",
+		"Owner3TextboxbankcontactName": "Remy Moore",
+		"Owner3TextboxbankphoneName": "386-875-4903",
+		"Owner3CheckboxMoreOwner": "check",
+		"Owner4TextboxFirstName": "Ethan",
+		"Owner4TextboxLastName": "Hunt",
+		"Owner4TextboxTitle": "Manager",
+		"Owner4TextboxDOBName": "5/5/1955",
+		"Owner4TextboxSSNName": "634-04-0911",
+		"Owner4TextboxhomeaddrName": "3790 Nova Rd",
+		"Owner4TextboxhomephoneName": "386-756-3490",
+		"Owner4TextboxcityName": "Port Orange",
+		"Owner4TextboxstateName": "FL",
+		"Owner4TextboxzipName": "32123",
+		"Owner4TextboxyrsthrName": "5",
+		"Owner4Radiobuttonown": "select",
+		"Owner4TextboxownerpercentName": "10",
+		"Owner4TextboxemailidName": "ethanhunt@gmail.com",
+		"Owner4TextboxbankName": "Bank of America",
+		"Owner4TextboxbankaccName": "7812568945",
+		"Owner4TextboxbankcontactName": "John Spartan",
+		"Owner4TextboxbankphoneName": "386-875-4903",
+		"Owner4CheckboxMoreOwner": "check",
+		"Bank Info": "",
+		"TextboxRoutingNum1Name": "061000010",
+		"TextboxAccNum1Name": "987654321",
+		"TextboxReAccNum1Name": "987654321",
+		"Order Header": "",
+		"DropdownDeploymentProvider": "MSUSA",
+		"DropdownImprinter": "Does Not Need",
+		"DropdownShipBy": "Ground",
+		"Order EDC": "",
+		"Orderpart select": "",
+		"DropdownPartNameTerminal": "Magtek Mini Swipe Reader (USB)",
+		"DropdownPartNameApplication": "Global Transport VT",
+		"DropdownPartNamePrinter": "Epson TM-T88V Thermal Printer (Combo)",
+		"DropdownPartNamePinpad": "VFI P1000SE (Dukpt)",
+		"DropdownPartNameCheckReader": "Magtek Mini MICR (USB)",
+		"Order Property": "",
+		"DropdownPurchaseOption": "Own",
+		"DropdownCheckServices": "Telecheck (Dual ID)",
+		"DropdownCatLevel": "Electronic Commerce (secure)",
+		"DropdownDialUp": "Pulse",
+		"TextboxResellerId": "24653897",
+		"TextboxEmailID": "test@globalpay.com",
+		"Sponserbank": "",
+		"DropdownPortfolioBankr": "0870",
+		"Westlake info": "",
+		"TextboxPrincipal": "001",
+		"TextboxAssociate": "001",
+		"TextboxChain": "000",
+		"DropdownMTCIndicator": "Drop Batch with Any Test Card",
+		"CMF Info page": "",
+		"DropdownCustNbrName": "000010886070140",
+		"DropdownAcquirerAccName": "MAS 055 70NN",
+		"DropdownTerminalEncrName": "GPN 3DES0103",
+		"DropdownTestCardIndicator": "Drop Batch with Any Test Card",
+		"PCI PA DSS": "",
+		"VerifyPCIPADSSCompliantField": "* Merchant PCI DSS Compliant?",
+		"DropdownProdMarket": "EMV Chip",
+		"DropdownDataStored": "None, No data Stored",
+		"DropdownPCIDSSCompliant": "Yes",
+		"TextboxComplianceDate": "",
+		"DropdownDataCompromise": "No",
+		"DropdownProperty7": "No",
+		"DropdownProperty8": "No",
+		"DropdownPCISSCQIR": "No",
+		"DropdownPCISSCQIRTrue": "Yes",
+		"TextboxQIRCompanyName": "QCompany1",
+		"DropdownSupportCompliance": "Yes",
+		"TextboxListingNumb": "12-34.12345.123",
+		"TextboxPADSSVendor": "Vendortest1",
+		"TextboxPADSSVersion": "1.1.0.x",
+		"TextboxSystemsInstalled": "3",
+		"DropdownInstallationType": "New",
+		"TextboxDateFrom": "09/12/2014",
+		"TextboxDateTo": "08/09/2015",
+		"Rate short form": "",
+		"DropdownInterTable": "Full Tier",
+		"TextboxDiscountRate": "2",
+		"TextboxPerItem": "0.15",
+		"Reporting products": "",
+		"DropdownPackage": "Reporting Pro",
+		"DropdownStatementType": "eStatement",
+		"DropdownHoldStatement": "Do Not Hold Statement",
+		"Debit short form": "",
+		"DropdownDebitType": "PIN Debit",
+		"TextboxGatewayId": "10820001",
+		"Nonbank enroll": "",
+		"DropdownCardUseEBT": "Auth/Capture",
+		"TextboxEBTDisc": "1.25",
+		"TextboxEBTPerItem": "0.15",
+		"TextboxEBTAuthFee": "0.05",
+		"TextboxEBTSE": "7894561",
+		"LocationCheckbox": "check",
+		"VerifySuccessMsg": "1 location(s) successfully submitted.",
+		"VerifyText": "1 location(s) out of 1 possible selected",
+		"Dropdown_501(c)3_form": "Yes",
+		"OrderQuantity1": "1",
+		"OrderQuantity2": "1",
+		"OrderQuantity3": "1",
+		"OrderQuantity4":"1",
+		"OrderPayments":"1",
+		"DropdownSettlementType":"Host/Time Initiated",
+		"DropdownSettlement":"Terminal",
+		"DropdownBalancePeriod":"1",
+		"TextboxPayAppVersion":"3.x",
+		"txtProperty11":"1",
+		"DropdownCommType":"Dial-Up Only",
+		"MagtekPurchaseAmount": "250",
+		"DropdownAXPFullAcquiring":"Yes",
+		"DropdownWelcomeKit":"Yes",
+		"DropdownEDCType": "Terminal Order",
+		"TextboxPurchasePrice":"1",
+		"TextboxRegularSize":"1",
+		"TextboxPortableSize":"1",
+		"TextboxTotalRegularPlatesNeeded":"1",
+		"TextboxTotalAmexPlatesNeeded":"1",
+		"TextboxTotalPlasticCardsNeeded":"1",
+		"PackageFee": "99.00",
+		"DropdownVARSoftware": "VAR Software"
+	
+		
+	},
+
+	
+	"TC-1174":{
+		"TextboxSalesRepName": "T565",
+		"DropdownSICCategory": "Retail",
+		"DropdownSICCode": "7992 PUBLIC GOLF COURSES",
+		"DropdownMarket": "Retail",
+		"TextboxProdServices": "Landscaping",
+		"Dropdown_501(c)3_form": "No"
+	
+	
+	
+	},
+	
+	"TC-1191":{
+	
+	"DropdownEDCType":"VAR Software",
+	"TextboxSalesRepName": "T565"
+	
+	},
+	
+	
+	
+	"TC-1195":{
+	"TextboxSalesRepName": "T565",
+		"DropdownMarket": "MOTO",
+		"DropdownEDCType":"PC Software",
+		"DropdownCatLevel":"Not Applicable",
+		"DropdownPCSoftware":"Greater Giving Join Me",
+		"DropdownAXPAcquiring": "3",
+		"DropdownPortfolioBankr": "0468",
+		"TextboxPrincipal": "001",
+		"TextboxAssociate": "005",
+		"TextboxChain": "000",
+		"DropdownMTCIndicator": "Drop Batch with Any Test Card",
+		"CMF Info page": "",
+		"DropdownCustNbrName": "000011468000006",
+		"DropdownAcquirerAccName": "MAS 055 68A",
+		"DropdownTerminalEncrName": "GPN 3DES0103",
+		"DropdownTestCardIndicator": "Drop Batch with Any Test Card"
+		
+	},
+	
+	
+	
+	"TC-1783":{
+	
+	"SourcePath":"C:\\MEA_BDD\\MEA\\Data\\BFI_Files\\TC_1783"
+	
+	},
+	
+	
+	
+	"TC-1856":{
+	
+	"SourcePath":"C:\\MEA_BDD\\MEA\\Data\\BFI_Files\\TC_1856"
+	
+	},
+	
+	
+	
+	"TC-1186":{
+	"TextboxSalesRepName": "T565"
+	},
+	
+	"TC-1189":{
+	"TextboxSalesRepName": "T565"
+	},
+	
+	"TC-2469":{
+	
+	"DropdownEDCType": "PC Software",
+	"DropdownPCSoftware":"Greater Giving Join Me",
+	"DropdownCatLevel":"Not Applicable",
+	"DropdownTerminalEncrName": "3DES TEST BDK",
+	"DropdownPurchaseOption": "Own"
+	},
+	"TC-2470":{
+	
+	"TextboxSalesRepName": "T565",
+	"DropdownTerminalEncrName": "3DES TEST BDK"
+	
+	
+	},
+	
+	"TC-2474":{
+	"TextboxSalesRepName": "T565",
+	"DropdownEDCType":"VAR Software"
+	
+	},
+	
+	"TC-2471":{
+	"TextboxSalesRepName": "T565",
+		"DropdownMarket": "MOTO",
+		"DropdownEDCType":"PC Software",
+		"DropdownCatLevel":"Not Applicable",
+		"DropdownPCSoftware":"Greater Giving Join Me",
+		"DropdownAXPAcquiring": "3",
+		"DropdownPortfolioBankr": "0468",
+		"TextboxPrincipal": "001",
+		"TextboxAssociate": "005",
+		"TextboxChain": "000",
+		"DropdownMTCIndicator": "Drop Batch with Any Test Card",
+		"CMF Info page": "",
+		"DropdownCustNbrName": "000011468000006",
+		"DropdownAcquirerAccName": "MAS 055 68A",
+		"DropdownTerminalEncrName": "GPN 3DES0103",
+		"DropdownTestCardIndicator": "Drop Batch with Any Test Card",
+		"DropdownSICCode":"5094 PRECIOUS STONES AND METALS WATCHES AND JEWELRY"
+	
+	},
+	
+	"TC-2472":{
+	
+	"TextboxSalesRepName": "T565",
+		"DropdownSICCategory": "Retail",
+		"DropdownSICCode": "7992 PUBLIC GOLF COURSES",
+		"DropdownMarket": "Retail",
+		"TextboxProdServices": "Landscaping"
+	
+	
+	},
+	
+	
+	"TC-2473":{
+	"TextboxSalesRepName": "T565",
+	"DropdownEDCType":"VAR Software"
+	
+	
+	},
+	
+	"TC-2475":{
+		"DropdownSICCategory": "Retail",
+		"DropdownSICCode": "7992 PUBLIC GOLF COURSES",
+		"DropdownMarket": "Retail",
+		"TextboxProdServices": "Landscaping",
+	"TextboxSalesRepName": "T565"
+	
+	}
+	
+	}
